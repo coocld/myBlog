@@ -1,0 +1,15 @@
+{
+    "name": "涂洋",
+    "short_name": "洋洋得意",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "start_url": "/index.html",
+    "icons": [
+        {
+            "src": "/icons/logo.png",
+            "sizes": "200x200",
+            "type": "image/png"
+        }
+    ]
+  }
